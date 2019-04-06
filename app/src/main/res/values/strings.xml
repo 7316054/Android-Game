@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BallGame</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="homeNewBtn">NEW GAME</string>
+    <string name="homeExitBtn">EXIT</string>
+    <string name="gameExitBtn">EXIT</string>
+    <string name="objectStatus">3 object (max = 3)</string>
+    <string name="timeStatus">10 sec (time > 0)</string>
+    <string name="set">set</string>
+    <string name="setting">Setting</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
